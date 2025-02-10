@@ -6,7 +6,7 @@ import time
 number = int(input('Choose a number:\n'))
 result = 0
 
-#sarting timer
+#starting timer
 start = time.time()
 
 #creating a loop for giving multiplication answers
